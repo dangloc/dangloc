@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dang Ba Loc</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dangloc" alt="dangloc" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/dangloc](https://github.com/dangloc)
 
 - 💬 Ask me about **react**
